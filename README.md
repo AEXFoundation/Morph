@@ -1,5 +1,3 @@
-<div align="center">
-
 # Morph
 
 **An image processing engine for developers.**
@@ -8,8 +6,6 @@ Apply and combine filters to create complex image transformations.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-In%20Development-orange)](https://github.com/yourusername/morph)
-
-</div>
 
 ---
 
