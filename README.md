@@ -2,7 +2,7 @@
 
 # Morph
 
-**An image processing engine for developers**
+**An image processing engine for developers.**
 
 Apply and combine filters to create complex image transformations.
 
@@ -39,11 +39,3 @@ We welcome contributions from the community. Watch this repository for upcoming 
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE) for full details.
-
----
-
-<div align="center">
-
-**Built for developers who demand powerful, scriptable image processing.**
-
-</div>
