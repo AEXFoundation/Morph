@@ -4,7 +4,7 @@
 
 **A console-based image processing engine for developers**
 
-Morph uses a node-based architecture to apply and combine filters, enabling complex image transformations directly from the command line.
+Apply and combine filters to create complex image transformations directly from the command line.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-In%20Development-orange)](https://github.com/yourusername/morph)
