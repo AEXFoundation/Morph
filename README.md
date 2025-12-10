@@ -6,7 +6,6 @@ A console-based image processing engine that uses nodes to apply and combine fil
 
 - **Command-Line Interface**: Seamlessly integrate into any workflow or automation script
 - **Extensible Filter Library**: Designed to support a vast collection of composable image filters
-- **Universal Integration**: Works with any application or development environment
 
 ## Status
 
