@@ -1,8 +1,11 @@
 **Latest:** 0.0.2 (Alpha Release).
 
-**Contact Author:** [wzssmex@gmail.com](mailto:wzssmex@gmail.com).
+**Author:** [wzssmex@gmail.com](mailto:wzssmex@gmail.com).
 
 Morph is designed as a **foundation for building powerful image processing workflows**. Whether you're automating batch operations, building graphics applications, or integrating image manipulation into your development pipeline, Morph provides the tools you need.
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Status](https://img.shields.io/badge/Status-In%20Development-orange)](https://github.com/yourusername/morph)
 
 ---
 
@@ -30,10 +33,6 @@ Built to support a comprehensive library of composable image filters. Chain and 
 Direct command-line access makes it ideal for automation, scripting, and cross-platform workflows.
 
 ---
-
-## Development Status
-
-Morph is currently in active development. Star this repository to stay updated on releases and feature announcements.
 
 ## License
 
