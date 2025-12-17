@@ -44,16 +44,6 @@ std::vector<std::string> splitCommand(const std::string& input) {
 
 int main() {
     Pipeline pipeline;
-
-    std::cout << "Image Pipeline CLI" << std::endl;
-    std::cout << "Commands:" << std::endl;
-    std::cout << "  -i @<path>                    Add image(s) from path" << std::endl;
-    std::cout << "  @i                            Show images in input" << std::endl;
-    std::cout << "  @i <filter> [file]            Apply filter to input" << std::endl;
-    std::cout << "  -o @<path> [keep|clear] [file] Export images" << std::endl;
-    std::cout << "  exit                          Exit program" << std::endl;
-    std::cout << std::endl;
-
     bool running = true;
     while (running) {
         std::cout << "> ";
